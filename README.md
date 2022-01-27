@@ -24,4 +24,3 @@ The Total Fare by City Type chart shows that the three city types' total fare by
 
 ## Summary
 I believe the disparities you see among the city types' data shows the nature of each of those areas. Larger cities make for more demand in rides, but shorter rides, so you'll need more drivers in these cities to meet that demand. In the smaller cities, you won't need as many drivers, but your drivers will need to be willing to go further distances and therefore earn higher per ride fares. Based on the data from January through April, the fare trends do not look reliable enough to recommend more or less drivers during certain weeks/months. 
-
